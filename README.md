@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 int main() {
@@ -51,3 +52,6 @@ int main() {
 	cout<< k;
 }
 
+=======
+# тестовый
+>>>>>>> parent of ac0408d (Update README.md)
