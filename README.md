@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 int main() {
@@ -54,4 +55,5 @@ int main() {
 
 =======
 # тестовый
+>>>>>>> parent of ac0408d (Update README.md)
 >>>>>>> parent of ac0408d (Update README.md)
