@@ -56,4 +56,6 @@ int main() {
 =======
 # тестовый
 >>>>>>> parent of ac0408d (Update README.md)
+=======
+# тестовый
 >>>>>>> parent of ac0408d (Update README.md)
